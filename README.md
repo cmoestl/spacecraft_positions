@@ -1,7 +1,7 @@
 SPACECRAFT_POSITIONS
 ====================
 
-This python code makes the movies for the positions of the spacecraft Parker Solar Probe, STEREO-A, Bepi Colombo, and Solar Orbiter (assuming a February 2020 launch) as well as Mercury, Venus and Earth.
+This python code makes movies for the positions of the spacecraft Parker Solar Probe, STEREO-A, Bepi Colombo, and Solar Orbiter (assuming a February 2020 launch) as well as Mercury, Venus and Earth.
 
 by C. Moestl/IWF-helio, Austrian Academy of Sciences, Graz, Austria.
 
