@@ -20,6 +20,8 @@ https://www.youtube.com/watch?v=UZ0ISGJXA_M&t=73s
 version with Earth-fixed (HEEQ)
 https://www.youtube.com/watch?v=0ybvOYEl9VU&t=80s
 
+The animations are also on figshare for downloading about (100 MB each):
+https://doi.org/10.6084/m9.figshare.7364132.v1
 
 Usage
 -----
